@@ -1,2 +1,2 @@
-##About Us
+## About Us
 We are Team 25K, a student-run competitive robotics team located in Richmond Hill, Ontario. Our experienced team members are Vex Robotics competitors and champions. Despite being a young team, we have over 23 years of combined robotics competition experience. Our diverse team is completely student-run and managed, allowing us to develop essential project management and teamwork skills with the necessary engineering skills.
